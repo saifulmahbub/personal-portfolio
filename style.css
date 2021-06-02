@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.color-orange{
+    color: tomato;
+}
+section{
+    height: 500px;
+  padding-top: 150px;
+}
+.buttonStyle{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+}
+.latest-part{
+    background-color: gainsboro;
+}
+.one-third{
+    width: 25%;
+    margin-left: 5%;
+    padding: 5px;
+    float: left;
+    box-shadow: 5px 5px 12px gray;
+    border-radius: 10px;
+    color: black;
+    
+   
+}
+.one-third p{
+    color: dimgrey;
+}
+.one-third img{
+    width: 100%;
+}
+.singPartColor{
+    color: lightsalmon;
+}
+.font-spacing{
+    text-align: center;
+
+}
+.down-part{
+    text-align: center;
+}
+.down-part h4{
+    color: dimgrey;
+}
+.down-part img{
+    width: 5%;
+}
+
+.blue-box{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    margin: 40px;
+    border-radius: 20px;
+}
+.haf-width{
+   
+    padding: 10px;
+     margin:20px ;
+   
+    
+   
+   
+}
+#align-right{
+   margin: 500px;
+  text-align: right;
+  
+}
+#text-left{
+    color: white;
+}
