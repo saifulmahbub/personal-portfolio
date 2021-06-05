@@ -73,12 +73,16 @@ section{
     background-image: url("images/Group_33094_1.png");
     background-repeat: no-repeat;
     background-position:left;
+    background-size: cover;
     margin: 40px;
     border-radius: 20px;
+    display: flex;
+
+   
 }
 .haf-width{
    
-    padding: 10px;
+    padding: 27px;
      margin:20px ;
    
     
@@ -86,10 +90,15 @@ section{
    
 }
 #align-right{
-   margin: 500px;
-  text-align: right;
+
+  position: relative;
+  left: 500px;
+  top: 70px;
+
+ 
   
 }
 #text-left{
     color: white;
+
 }
